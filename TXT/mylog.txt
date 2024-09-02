@@ -14,4 +14,6 @@ ZCZC W00 35 L32 YouTube: watching variations of Linux OS and their advantages
 ZCZC W00 5 L41 TXT/mylog.txt related.
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related (2/9)
 ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 60 L01 Answering PopQuiz in SCELE
+ZCZC W01 20 L01 Answering PopQuiz in SCELE
+ZCZC W01 10 L03 Cloning os242 Repository from GitHub
+ZCZC W01 10 L41 Trying to edit mylog.txt from vi
