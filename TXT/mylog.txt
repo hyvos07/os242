@@ -17,3 +17,4 @@ ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 20 L01 Answering PopQuiz in SCELE
 ZCZC W01 10 L03 Cloning os242 Repository from GitHub
 ZCZC W01 10 L41 Trying to edit mylog.txt from vi
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related (4/9)
