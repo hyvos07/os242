@@ -15,10 +15,10 @@ ZCZC W00 5 L41 TXT/mylog.txt related.
 ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related (2/9)
 ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 20 L01 Answering PopQuiz in SCELE
-ZCZC W01 10 L03 Cloning os242 Repository from GitHub
+ZCZC W01 10 L03 Cloning and setting up os242 and demos Repository from GitHub
 ZCZC W01 10 L41 Trying to edit mylog.txt from vi
 ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related (4/9)
-ZCZC W01 20 L64 Helping a friend (OS related problem)
+ZCZC W01 20 L64 Helping a friend (Setting up Virtual Box)
 ZCZC W01 10 L21 Trying demos on os2xx/demos
 ZCZC W01 40 L04 Settings up GitHub Pages for LINKS/
 ZCZC W01 10 L40 TXT/mylog.txt updates and myupdate.txt initialization
