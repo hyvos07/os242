@@ -25,3 +25,17 @@ ZCZC W01 10 L40 TXT/mylog.txt updates and myupdate.txt initialization
 ZCZC W01 20 L05 Quiz Week01
 ZCZC W01 10 L11 Completed Assignment #01 in total
 ZCZC W01 90 L08 Discussing OS topic-related (like current Weekly Assignment) with my friends on Discord
+ZCZC W02 60 L11 Assignment #01 (Try some demos and reading prequisite material before class)
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related (9/9)
+ZCZC W02 360 L12 Assignment #02 (Setting up GnuGP key)
+ZCZC W02 120 L13 Assignment #03 (Updating links.md)
+ZCZC W02 30 L14 Assignment #04 (Reviewing friend's link)
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related (11/9)
+ZCZC W02 120 L15 Assignment #05 (Keys backup)
+ZCZC W02 60 L16 Assignment #06 (Script Assignment)
+ZCZC W02 120 L24 Scripting Pop Quiz W02-1 for scraping SCELE
+ZCZC W02 10 L01 Answering Google Form in Scele
+ZCZC W02 20 L05 Quiz Week 2
+ZCZC W02 10 L01 Answering Pop Quiz W02-4 about trying to log into OS1.cs.ui.ac.id
+ZCZC W02 60 L17 Assignment #07 (Finishing)
+ZCZC W02 60 L24 Scripting Pop Quiz W02-3 for replacing second occurence cbkadal text in a .txt file
