@@ -24,6 +24,10 @@ Buku panduan yang dipakai selama perkuliahan Sistem Operasi.
 
 4. [Apa Itu SSH dan Bagaimana Cara Kerjanya?](https://www.niagahoster.co.id/blog/apa-itu-ssh/)<br>Penjelasan mengenai apa itu SSH dan bagaimana sebuah SSH bekerja untuk menghubungkan dua komputer.
 
+5. [Mounting di Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)<br>Penjelasan mengenai mounting di Linux dan cara melakukannya.
+
+6. [Disk Partition in Linux](https://www.debian.org/releases/stable/i386/apc.id.html)<br>Artikel bagus yang menjelaskan secara lengkap partisi di Linux (terutama Debian).
+
 ### Documentation
 <hr>
 

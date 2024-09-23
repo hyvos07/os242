@@ -39,3 +39,18 @@ ZCZC W02 20 L05 Quiz Week 2
 ZCZC W02 10 L01 Answering Pop Quiz W02-4 about trying to log into OS1.cs.ui.ac.id
 ZCZC W02 60 L17 Assignment #07 (Finishing)
 ZCZC W02 60 L24 Scripting Pop Quiz W02-3 for replacing second occurence cbkadal text in a .txt file
+ZCZC W03 60 L11 Assignment #01 (Settings up for this week's assignment)
+ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related (18/9)
+ZCZC W03 30 L12 Assignment #02 (Backing up again my GnuPG keys)
+ZCZC W03 180 L13 Assignment #03 (Add/Create an extra 32 GB virtual disk)
+ZCZC W03 10 L01 Answering Pop Quiz #1
+ZCZC W03 10 L01 Answering Pop Quiz #2
+ZCZC W03 20 L22 Trying to log into os1.cs.ui.ac.id as a part of Pop Quiz #3
+ZCZC W03 30 L22 Making TARBALL as a part of PopQuiz #4
+ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related (22/9)
+ZCZC W03 40 L14 Assignment #4: Running some scripts and copy it into RESULT/W03
+ZCZC W03 240 L31 Resolving VirtualBox error on No Mounted Disk
+ZCZC W03 120 L22 Settings up to recover my progress (partitioning sdb and mounted some things)
+ZCZC W03 180 L09 Retry all assignment lost from backup
+ZCZC W03 50 L15 Assignment #5: Finishing and writing logs
+ZCZC W03 20 L31 Making another backup for this week
