@@ -54,3 +54,15 @@ ZCZC W03 120 L22 Settings up to recover my progress (partitioning sdb and mounte
 ZCZC W03 180 L09 Retry all assignment lost from backup
 ZCZC W03 50 L15 Assignment #5: Finishing and writing logs
 ZCZC W03 20 L31 Making another backup for this week
+ZCZC W04 60 L11 Assignment #01 (Settings up for this week's assignment)
+ZCZC W04 99 L02 CLASSROOM/ZOOM meetings related (26/9)
+ZCZC W04 30 L12 Assignment #02 (Backing up again my GnuPG keys)
+ZCZC W04 180 L13 Assignment #03 (Doing bashing and running script for this week's assignment)
+ZCZC W04 30 L01 Doing Pop Quiz #1
+ZCZC W04 10 L01 Answering Pop Quiz #2
+ZCZC W04 30 L22 Editing file in os1.cs.ui.ac.id as a part of Pop Quiz #3
+ZCZC W04 60 L22 Making TARBALL and copy it to os1.cs.ui.ac.id as a part of PopQuiz #4
+ZCZC W04 99 L02 Online classroom, watching Youtube Video from Scele (30/9)
+ZCZC W04 90 L14 Assignment #4: Compiling The Linux Programming Interface (TLPI)
+ZCZC W04 60 L15 Assignment #5: Finishing and writing logs
+ZCZC W04 60 L31 Making another backup for this week

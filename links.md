@@ -13,6 +13,8 @@ Some links that helps me during the Operation System journey!
 1. [Operating System Concepts, 10th Edition, 2018](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) — [Slides](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/)<br>
 Buku panduan yang dipakai selama perkuliahan Sistem Operasi.
 
+2. [The Linux Programming Interface](https://man7.org/tlpi/) Panduan dan referensi yang terperinci untuk pemrograman sistem Linux dan UNIX.
+
 ### Videos & Article
 <hr>
 
