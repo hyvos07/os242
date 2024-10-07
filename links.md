@@ -30,6 +30,8 @@ Buku panduan yang dipakai selama perkuliahan Sistem Operasi.
 
 6. [Disk Partition in Linux](https://www.debian.org/releases/stable/i386/apc.id.html)<br>Artikel bagus yang menjelaskan secara lengkap partisi di Linux (terutama Debian).
 
+7. [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory)<br>OS yang kita pakai ternyata punya memory boongan loh!
+
 ### Documentation
 <hr>
 

@@ -66,3 +66,16 @@ ZCZC W04 99 L02 Online classroom, watching Youtube Video from Scele (30/9)
 ZCZC W04 90 L14 Assignment #4: Compiling The Linux Programming Interface (TLPI)
 ZCZC W04 60 L15 Assignment #5: Finishing and writing logs
 ZCZC W04 60 L31 Making another backup for this week
+ZCZC W05 60 L11 Assignment #01: Settings up for this week's assignment
+ZCZC W05 99 L02 CLASSROOM/ZOOM meetings related (2/10)
+ZCZC W05 30 L12 Assignment #02: Backing up again my GnuPG keys
+ZCZC W05 180 L13 Assignment #03: Testing how low can my Debian go
+ZCZC W05 30 L01 Doing Pop Quiz #1
+ZCZC W05 10 L01 Answering Pop Quiz #2
+ZCZC W05 30 L22 Copying file in os1.cs.ui.ac.id as a part of Pop Quiz #3
+ZCZC W05 60 L22 Editing and replacing some words in a txt file as a part of PopQuiz #4
+ZCZC W05 99 L02 Online classroom, watching Youtube Video from Scele (7/10)
+ZCZC W05 90 L14 Assignment #04: Extracting memory checker
+ZCZC W05 60 L15 Assignment #05: Running some address of some function
+ZCZC W05 80 L16 Assignment #06: Finishing
+ZCZC W05 60 L31 Making another backup for this week
