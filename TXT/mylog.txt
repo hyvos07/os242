@@ -79,3 +79,17 @@ ZCZC W05 90 L14 Assignment #04: Extracting memory checker
 ZCZC W05 60 L15 Assignment #05: Running some address of some function
 ZCZC W05 80 L16 Assignment #06: Finishing
 ZCZC W05 60 L31 Making another backup for this week
+ZCZC W06 60 L11 Assignment #01: Settings up for this week's assignment
+ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related (23/10)
+ZCZC W06 30 L12 Assignment #02: Backing up again my GnuPG keys
+ZCZC W06 80 L13 Assignment #03: Some assignment script
+ZCZC W06 30 L22 Doing Pop Quiz #1
+ZCZC W06 30 L22 Doing Pop Quiz #2
+ZCZC W06 15 L01 Answering Pop Quiz #3
+ZCZC W06 15 L01 Answering Pop Quiz #4
+ZCZC W06 60 L22 Doing Pop Quiz #5
+ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related (28/10)
+ZCZC W06 180 L14 Assignment #04: Fork Fork Fork
+ZCZC W06 80 L16 Assignment #05: Finishing
+ZCZC W06 240 L22 Create a Docusaurus for Pop Quiz #6
+ZCZC W06 60 L31 Making another backup for this week
