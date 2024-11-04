@@ -33,6 +33,7 @@ Buku panduan yang dipakai selama perkuliahan Sistem Operasi.
 7. [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory)<br>OS yang kita pakai ternyata punya memory boongan loh!
 
 8. [Process, Parent, and Child](https://www.geeksforgeeks.org/difference-between-process-parent-process-and-child-process/)<br>How to kill parent with fork?
+9. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>The title already explained all.
 
 
 ### Documentation

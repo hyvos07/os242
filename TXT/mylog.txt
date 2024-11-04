@@ -93,3 +93,15 @@ ZCZC W06 180 L14 Assignment #04: Fork Fork Fork
 ZCZC W06 80 L16 Assignment #05: Finishing
 ZCZC W06 240 L22 Create a Docusaurus for Pop Quiz #6
 ZCZC W06 60 L31 Making another backup for this week
+ZCZC W07 60 L11 Assignment #01: Settings up for this week's assignment
+ZCZC W07 99 L02 CLASSROOM/ZOOM meetings related (30/10)
+ZCZC W07 40 L12 Assignment #02: Assigment Script
+ZCZC W07 99 L13 Assignment #03: Sync with os1
+ZCZC W07 45 L22 Doing Pop Quiz #1
+ZCZC W07 45 L22 Doing Pop Quiz #2
+ZCZC W07 85 L22 Doing Pop Quiz #3
+ZCZC W07 85 L22 Doing Pop Quiz #5
+ZCZC W07 99 L02 CLASSROOM/ZOOM meetings related (4/11)
+ZCZC W07 150 L14 Assignment #04: Finishing
+ZCZC W07 240 L22 Editing the 242saurus for Pop Quiz #4
+ZCZC W07 60 L31 Making another backup for this week
