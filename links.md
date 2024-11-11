@@ -33,6 +33,7 @@ Buku panduan yang dipakai selama perkuliahan Sistem Operasi.
 7. [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory)<br>OS yang kita pakai ternyata punya memory boongan loh!
 
 8. [Process, Parent, and Child](https://www.geeksforgeeks.org/difference-between-process-parent-process-and-child-process/)<br>How to kill parent with fork?
+
 9. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>The title already explained all.
 
 
@@ -48,3 +49,5 @@ Buku panduan yang dipakai selama perkuliahan Sistem Operasi.
 4. [Regular Expression (Regex) Cheat Sheet](https://quickref.me/regex.html)<br>Quick reference untuk sintaks-sintaks regular expressions (regex), mulai dari symbols, ranges, grouping, assertions dan beberapa contoh sintaks sederhana.
 
 5. [C - Language Tutorial](https://www.learn-c.org/)<br>Belajar bahasa C dengan bahasa yang mudah dimengerti, bahkan oleh anak-anak sekalipun!
+
+6. [Linux From Scratch by Kernotex](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&si=86TNdIzglgkVNfQI)<br>A complete guide on settings up Linux from scratch!

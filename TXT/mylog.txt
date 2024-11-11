@@ -105,3 +105,14 @@ ZCZC W07 99 L02 CLASSROOM/ZOOM meetings related (4/11)
 ZCZC W07 150 L14 Assignment #04: Finishing
 ZCZC W07 240 L22 Editing the 242saurus for Pop Quiz #4
 ZCZC W07 60 L31 Making another backup for this week
+ZCZC W08 90 L11 Assignment #01: Settings up for this week's assignment
+ZCZC W08 99 L02 CLASSROOM/ZOOM meetings related (6/10)
+ZCZC W08 90 L12 Assignment #02: Assigment Script
+ZCZC W08 480 L13 Assignment #03: LFS-maxxing
+ZCZC W08 45 L22 Doing Pop Quiz #1
+ZCZC W08 45 L01 Answering Pop Quiz #2
+ZCZC W08 85 L22 Doing Pop Quiz #3
+ZCZC W08 99 L02 CLASSROOM/ZOOM meetings related (11/11)
+ZCZC W08 150 L14 Assignment #04: Finishing
+ZCZC W08 90 L22 md5sum for Pop Quiz #4
+ZCZC W08 60 L31 Making another backup for this week
